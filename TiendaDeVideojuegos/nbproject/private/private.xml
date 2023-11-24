@@ -3,9 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/tiendadeabarrotes/TiendaDeAbarrotes.java</file>
-            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/tiendadeabarrotes/GuiTienda.java</file>
-            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/tiendadeabarrotes/Productos.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/AgregarProductoss.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Clientes/Conexion.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Productos/AgregarProductos.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Clientes/RegistrarClientess.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/SistemaVentas/SistemasVentas.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Clientes/Clientes.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Productos/GuiProductos.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Productos/Productos.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/SistemaVentas/GuiVentas.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Clientes/RegistrarClientes.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Productos/Conexion1.java</file>
+            <file>file:/C:/Users/KevinGamer/Documents/NetBeansProjects/TiendaDeVideojuegos/src/Clientes/GuiClientes.java</file>
         </group>
     </open-files>
 </project-private>
